@@ -1,33 +1,21 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 🌐 Portfolio Web - Maximiliano Abel Marcos
+
+¡Hola! Soy **Maximiliano Marcos**, Desarrollador Backend. Este es mi portfolio personal, donde comparto mis proyectos.
 
 
-So I've had the wireframe for this particular design kicking around for some time, but with all
-the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+- Plantilla: [HTML5 UP - Hyperspace](https://html5up.net/hyperspace)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 📂 ¿Qué vas a encontrar?
 
-(* = not included)
+- Información sobre mí como desarrollador
+- Enlaces a proyectos personales (Repositorios)
+- Enlaces a Video demostraciones y/o explicación escrita (Swagger/Posteo en línkedin)
+- Contacto y redes sociales
 
-AJ
-aj@lkn.io | @ajlkn
+## 🌍 Sitio en vivo
 
+[Ver portfolio online](https://maximarcos.github.io/portfolio)
 
-Credits:
+## 🧠 Objetivo
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Este proyecto tiene como objetivo presentarme a empresas o personas interesadas en conocer mi trabajo como desarrollador backend.

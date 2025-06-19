@@ -1,8 +1,0 @@
-IDEA:
-
-El usuario entra y recibe una pregunta "para comprobar que sea humano"
-
-foto carpincho*
-Que animal és?
-Si responden "capibara", msje de castigo
-Si responden "carpincho", ingresa al portfolio
